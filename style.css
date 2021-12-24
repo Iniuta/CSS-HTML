@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text-block {
+    background-color: aqua;
+    display: block;
+    width: 100px;
+    height: 18px;
+    overflow: hidden;
+}
+.text-block:hover {
+    background-color: aquamarine;
+}
+
